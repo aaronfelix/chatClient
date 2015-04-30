@@ -1,0 +1,10 @@
+c:\users\felix\documents\visual studio 2013\Projects\chat\chat\bin\Debug\chat.exe.config
+c:\users\felix\documents\visual studio 2013\Projects\chat\chat\bin\Debug\chat.exe
+c:\users\felix\documents\visual studio 2013\Projects\chat\chat\bin\Debug\chat.pdb
+c:\users\felix\documents\visual studio 2013\Projects\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+c:\users\felix\documents\visual studio 2013\Projects\chat\chat\obj\Debug\chat.Form1.resources
+c:\users\felix\documents\visual studio 2013\Projects\chat\chat\obj\Debug\chat.Properties.Resources.resources
+c:\users\felix\documents\visual studio 2013\Projects\chat\chat\obj\Debug\chat.csproj.GenerateResource.Cache
+c:\users\felix\documents\visual studio 2013\Projects\chat\chat\obj\Debug\chat.exe
+c:\users\felix\documents\visual studio 2013\Projects\chat\chat\obj\Debug\chat.pdb
+c:\users\felix\documents\visual studio 2013\Projects\chat\chat\obj\Debug\chat.ColorPicker.resources

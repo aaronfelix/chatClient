@@ -120,7 +120,524 @@
   <metadata name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>138, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="copyToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 22</value>
+  </data>
+  <data name="copyToolStripMenuItem.Text" xml:space="preserve">
+    <value>copy</value>
+  </data>
+  <data name="backgroundColorsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>186, 22</value>
+  </data>
+  <data name="backgroundColorsToolStripMenuItem.Text" xml:space="preserve">
+    <value>Background Color</value>
+  </data>
+  <data name="buttonColorToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>186, 22</value>
+  </data>
+  <data name="buttonColorToolStripMenuItem.Text" xml:space="preserve">
+    <value>Button Color</value>
+  </data>
+  <data name="textColorToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>186, 22</value>
+  </data>
+  <data name="textColorToolStripMenuItem.Text" xml:space="preserve">
+    <value>Text Color</value>
+  </data>
+  <data name="secondaryTextColorToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>186, 22</value>
+  </data>
+  <data name="secondaryTextColorToolStripMenuItem.Text" xml:space="preserve">
+    <value>Secondary Text Color</value>
+  </data>
+  <data name="colorsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 22</value>
+  </data>
+  <data name="colorsToolStripMenuItem.Text" xml:space="preserve">
+    <value>Colors</value>
+  </data>
+  <data name="noneToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>157, 22</value>
+  </data>
+  <data name="noneToolStripMenuItem.Text" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="rumbleToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>157, 22</value>
+  </data>
+  <data name="rumbleToolStripMenuItem.Text" xml:space="preserve">
+    <value>Rumble</value>
+  </data>
+  <data name="blinkToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>157, 22</value>
+  </data>
+  <data name="blinkToolStripMenuItem.Text" xml:space="preserve">
+    <value>Blink</value>
+  </data>
+  <data name="hideShowToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>157, 22</value>
+  </data>
+  <data name="hideShowToolStripMenuItem.Text" xml:space="preserve">
+    <value>Hide-Show</value>
+  </data>
+  <data name="toolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>157, 22</value>
+  </data>
+  <data name="toolStripMenuItem2.Text" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="enablePopupsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>157, 22</value>
+  </data>
+  <data name="enablePopupsToolStripMenuItem.Text" xml:space="preserve">
+    <value>Enable Popups?</value>
+  </data>
+  <data name="notificationsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 22</value>
+  </data>
+  <data name="notificationsToolStripMenuItem.Text" xml:space="preserve">
+    <value>Notifications</value>
+  </data>
+  <data name="setFilePathToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>186, 22</value>
+  </data>
+  <data name="setFilePathToolStripMenuItem.Text" xml:space="preserve">
+    <value>Set file landing folder</value>
+  </data>
+  <data name="fileSettingsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 22</value>
+  </data>
+  <data name="fileSettingsToolStripMenuItem.Text" xml:space="preserve">
+    <value>File Settings</value>
+  </data>
+  <data name="displayTimeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 22</value>
+  </data>
+  <data name="displayTimeToolStripMenuItem.Text" xml:space="preserve">
+    <value>display time?</value>
+  </data>
+  <data name="ghostModeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 22</value>
+  </data>
+  <data name="ghostModeToolStripMenuItem.Text" xml:space="preserve">
+    <value>Ghost mode</value>
+  </data>
+  <data name="mountToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 22</value>
+  </data>
+  <data name="mountToolStripMenuItem.Text" xml:space="preserve">
+    <value>Mount</value>
+  </data>
+  <data name="enableQuickImageViewToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 22</value>
+  </data>
+  <data name="enableQuickImageViewToolStripMenuItem.Text" xml:space="preserve">
+    <value>Enable netpeek</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="runOnStartupToolStripMenuItem.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="runOnStartupToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 22</value>
+  </data>
+  <data name="runOnStartupToolStripMenuItem.Text" xml:space="preserve">
+    <value>Run on startup</value>
+  </data>
+  <data name="optionsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 22</value>
+  </data>
+  <data name="optionsToolStripMenuItem.Text" xml:space="preserve">
+    <value>Options</value>
+  </data>
+  <data name="displayNameToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 22</value>
+  </data>
+  <data name="displayNameToolStripMenuItem.Text" xml:space="preserve">
+    <value>Display Name</value>
+  </data>
+  <data name="helpToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 22</value>
+  </data>
+  <data name="helpToolStripMenuItem.Text" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="sketchToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 22</value>
+  </data>
+  <data name="sketchToolStripMenuItem.Text" xml:space="preserve">
+    <value>sketch</value>
+  </data>
+  <data name="contextMenuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 114</value>
+  </data>
+  <data name="&gt;&gt;contextMenuStrip1.Name" xml:space="preserve">
+    <value>contextMenuStrip1</value>
+  </data>
+  <data name="&gt;&gt;contextMenuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="textBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left, Right</value>
+  </data>
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>50, 299</value>
+  </data>
+  <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>266, 20</value>
+  </data>
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="button1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="button1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAC0AAAAeCAYAAAC49JeZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADrwAAA68AZW8ckkAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuNvyMY98A
+        AARhSURBVFhH1ZhXbuRWEEW9BeWcc1iEcivnnHPOOUt4KyM1Gtvwpsr3PqiIJ4JsdVvSYPxxgSabQh8W
+        qo6K/KOlpUWY1tZWaW9vl66uLunp6ZG+vj4ZHByU4eFhGRsbk8nJSZmenpa5uTlZWFiQ5eVlWVtbk42N
+        Ddne3pbd3V05ODiQo6MjOT09lYuLC7m6upLb21u5v7+Xp6cneX5+/pIE0BqCd3Z2Snd3t/T29srAwIAM
+        DQ3J6OioTExMyNTUlMzOzsr8/LwsLS3J6uqqrK+vy9bWluzs7Mj+/r4cHh7KycmJnJ+fy+Xlpdzc3Mjd
+        3Z08Pj5GQqQbF9owqLjp6OgwiUTCoNoG1TYjIyMGwAaVNqi0AawBrEGVDapsAGpQYYMKG0AaQBpU16C6
+        Bj/ylYmGVnBU26DaFhyVNqh0AI4qvwNHhQPws7OzAPzh4SHqhz+TeGimra0tEhy9bWZmZiw4+tqCb25u
+        BuDHx8cBOPr5q8GTQzMKjsE0/f39FhxDGYBjIC04BtKCYxgNhtGCo58NBvGrwT+GZjCYBkax4BhKA5sE
+        4BjId+AYxkhwDKHBEEZBpJvUoJko8PHxcQOTWPDFxUULDosE4DCIgUEs+PX19VeBpw7NEJxGgQYtOI2i
+        4DQKwVdWViw4jbK3txeAw9kB+CeN8jF0VlbWn0x2dvYrj3Nzc18UXFVIcFVhHDhVSPBUVdjY2OhrQt8l
+        h87MzPzLPQb4j5ycnB/JHB5W4Wcc3tzc7DGh8/HQGRkZ/7jHGoL/KoenDY0q/+0eh+M6XFWYjsNTUeF/
+        gmZ7MOjpn+53GtfhBQUFXlFRkeeqsKyszKuoqPAqKys9gldXV3s1NTVebW2tF+dwFzQKGtd+2NMW/G0Y
+        fyKvbA/3GholLy/PVxUmA1cVAt4HvB92uDt0dXV1r1GDiLayG2MstBsH+h04BtOHUXw6nEYpLCy0FVcV
+        lpaWeuXl5Z7rcK24q8L6+nq/qanpXVWjoDEPgutTg9a8QVv9MYRW8Pz8fI9tQnBVYUlJicdquyqsqqry
+        CO46vKGhwQOg5xqFrRGG1j09LWgmBP1CaHeddR1eXFzssdquw9kqBKfDVYXoc5/VdlUYVWlcb/f02EF0
+        j9240PhM6Bd+VnBVIcEJzWq7KtQedx3OHkcf++rwOGjcqH3AiIXmELrnGPZ2+JxCMwTHYHoKzv4mOB2u
+        KmSPEzzscFZbHY52scBhaNyofaxLWmnHHtYg7jVu2CJv8VSF7HH2N+ID3qdRUHUf7eKjz33A++pw3QoJ
+        zopThVHgmAn7WJd2T6cSgutWyH8+ydbZZHt4eCvETNiH6W+BZuL2cF1n4/ZwXWej9nB9C/Bt0IyC6zr7
+        0R4et84qOObCvgX4VmjG3cPddTadPVxViPYSgn87dJzD3T2cKiS4rrOuwwmuKtR3L98OzUQ5PNV11t3D
+        sU0KbvjXQDMEj9vD1eEf7eH4O/uqzoX+bYO5ePeq7n8BzcD9ghaTRCIh/wKgsJcBevdMHQAAAABJRU5E
+        rkJggg==
+</value>
+  </data>
+  <data name="button1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 294</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 29</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
   <metadata name="colorDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <metadata name="notifyIcon1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>293, 17</value>
+  </metadata>
+  <data name="notifyIcon1.Text" xml:space="preserve">
+    <value>notifyIcon1</value>
+  </data>
+  <data name="notifyIcon1.Visible" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="richTextBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="richTextBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="richTextBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>319, 294</value>
+  </data>
+  <data name="richTextBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;richTextBox1.Name" xml:space="preserve">
+    <value>richTextBox1</value>
+  </data>
+  <data name="&gt;&gt;richTextBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;richTextBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;richTextBox1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="maskedTextBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left, Right</value>
+  </data>
+  <data name="maskedTextBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>52, 299</value>
+  </data>
+  <data name="maskedTextBox1.Mask" xml:space="preserve">
+    <value>CCCCCCCCCCCCCCCCCCCCCCCCCCCCC</value>
+  </data>
+  <data name="maskedTextBox1.PromptChar" type="System.Char, mscorlib" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="maskedTextBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>264, 20</value>
+  </data>
+  <data name="maskedTextBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;maskedTextBox1.Name" xml:space="preserve">
+    <value>maskedTextBox1</value>
+  </data>
+  <data name="&gt;&gt;maskedTextBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;maskedTextBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;maskedTextBox1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="folderBrowserDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>543, 17</value>
+  </metadata>
+  <data name="folderBrowserDialog1.Description" xml:space="preserve">
+    <value>Select a folder for received files to appear in.</value>
+  </data>
+  <metadata name="bindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>406, 17</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>319, 324</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAHyAQAAEABADoAgAAFgAAACgAAAAfAAAAQAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAD/AAgA/z4AAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAMzMzMzMzAiAiAzMzMzMzMDMzMzMyIiIiIiAAMzMzMzAzMzMxEiIiICIiAiIzMzMwMzMzIRES
+        IiIQACAAIzMzMDMzMSIiERIiEQACIAAzMzAzMyISIiIREiERIgAgIzMwMzIhESIiIREREiACIAAzMDMx
+        ESERIiIRERICIAAAMzAzESESIhEhIRERAgAAAAMwMxERESEhEhERIRAAAAADMDEhISISEhESEhEQAiAA
+        ADAxESIiIiEhIRERESIAACIwMSIiIiEiERIRESIAAgAhMBESEiEiIRISEhIhAiAAAiARESEiISIhEREi
+        ISIAICIgEhERESESISEhEiIiIAACIBEREiIiESIRIRIiIgAgAAARERERISEiIREiIhAgAAAAEiERIhIS
+        IiESIhIQACAAADISEiIiIhEhIhIhICICIjAxIiIhESIhEiIhEiIiICIwMiIiIiERESEiIREiIiIiMDMi
+        IiERESEiEhESEiIiIzAzESISIRISERIRESIiIiMwMzEiIhEiESEiERESIiIzMDMxEiISIiESIRIRABIi
+        MzAzMxIiIhEhIiEiECAiIzMwMzMyIiIhIiIRIhIAADMzMDMzMyIiIhIiESEgIgMzMzAzMzMyIiIiIRIS
+        IiAzMzMwMzMzMzIiIhIiIiIzMzMzMDMzMzMzMyEiIiMzMzMzMzD/8B/+/4AD/v4AAP78AAB++AAAPvAA
+        AB7gAAAO4AAADsAAAAbAAAAGgAAAAoAAAAKAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAoAA
+        AAKAAAACwAAABsAAAAbgAAAO4AAADvAAAB74AAA+/AAAfv4AAP7/gAP+//Af/g==
+</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Notepad++</value>
+  </data>
+  <data name="&gt;&gt;copyToolStripMenuItem.Name" xml:space="preserve">
+    <value>copyToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;copyToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;optionsToolStripMenuItem.Name" xml:space="preserve">
+    <value>optionsToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;optionsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;colorsToolStripMenuItem.Name" xml:space="preserve">
+    <value>colorsToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;colorsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;backgroundColorsToolStripMenuItem.Name" xml:space="preserve">
+    <value>backgroundColorsToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;backgroundColorsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonColorToolStripMenuItem.Name" xml:space="preserve">
+    <value>buttonColorToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;buttonColorToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textColorToolStripMenuItem.Name" xml:space="preserve">
+    <value>textColorToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;textColorToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;secondaryTextColorToolStripMenuItem.Name" xml:space="preserve">
+    <value>secondaryTextColorToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;secondaryTextColorToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;notificationsToolStripMenuItem.Name" xml:space="preserve">
+    <value>notificationsToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;notificationsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;noneToolStripMenuItem.Name" xml:space="preserve">
+    <value>noneToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;noneToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rumbleToolStripMenuItem.Name" xml:space="preserve">
+    <value>rumbleToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;rumbleToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;blinkToolStripMenuItem.Name" xml:space="preserve">
+    <value>blinkToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;blinkToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hideShowToolStripMenuItem.Name" xml:space="preserve">
+    <value>hideShowToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;hideShowToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem2.Name" xml:space="preserve">
+    <value>toolStripMenuItem2</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;enablePopupsToolStripMenuItem.Name" xml:space="preserve">
+    <value>enablePopupsToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;enablePopupsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;fileSettingsToolStripMenuItem.Name" xml:space="preserve">
+    <value>fileSettingsToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;fileSettingsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;setFilePathToolStripMenuItem.Name" xml:space="preserve">
+    <value>setFilePathToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;setFilePathToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;displayTimeToolStripMenuItem.Name" xml:space="preserve">
+    <value>displayTimeToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;displayTimeToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ghostModeToolStripMenuItem.Name" xml:space="preserve">
+    <value>ghostModeToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ghostModeToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mountToolStripMenuItem.Name" xml:space="preserve">
+    <value>mountToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;mountToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;enableQuickImageViewToolStripMenuItem.Name" xml:space="preserve">
+    <value>enableQuickImageViewToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;enableQuickImageViewToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;runOnStartupToolStripMenuItem.Name" xml:space="preserve">
+    <value>runOnStartupToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;runOnStartupToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;displayNameToolStripMenuItem.Name" xml:space="preserve">
+    <value>displayNameToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;displayNameToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;helpToolStripMenuItem.Name" xml:space="preserve">
+    <value>helpToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;helpToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;sketchToolStripMenuItem.Name" xml:space="preserve">
+    <value>sketchToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;sketchToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;colorDialog1.Name" xml:space="preserve">
+    <value>colorDialog1</value>
+  </data>
+  <data name="&gt;&gt;colorDialog1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColorDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;notifyIcon1.Name" xml:space="preserve">
+    <value>notifyIcon1</value>
+  </data>
+  <data name="&gt;&gt;notifyIcon1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NotifyIcon, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;folderBrowserDialog1.Name" xml:space="preserve">
+    <value>folderBrowserDialog1</value>
+  </data>
+  <data name="&gt;&gt;folderBrowserDialog1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.FolderBrowserDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingSource1.Name" xml:space="preserve">
+    <value>bindingSource1</value>
+  </data>
+  <data name="&gt;&gt;bindingSource1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
